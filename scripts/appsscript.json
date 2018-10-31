@@ -1,0 +1,23 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cLucky",
+      "libraryId": "1xn6hBRuQSmbY00xvsq_2czoPbfGdz5GeK7xrdRK0dwDKb1-y1pikHcDY",
+      "version": "2"
+    }, {
+      "userSymbol": "cUseful",
+      "libraryId": "1EbLSESpiGkI3PYmJqWh3-rmLkYKAtCNPi1L2YCtMgo2Ut8xMThfJ41Ex",
+      "version": "77"
+    }, {
+      "userSymbol": "cCoupon",
+      "libraryId": "1X-tyDMF_iILp3cQ4MMCY0GQwrOPHl8ocKtWhqVuw1u5PG5wMytL6mjOP",
+      "version": "3"
+    }]
+  },
+  "webapp": {
+    "access": "MYSELF",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
